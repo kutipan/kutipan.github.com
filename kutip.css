@@ -13,6 +13,7 @@ body { background-color: #7a7a7a;
 div { }
 h2,.kutitipkan {font-family: 'Dancing Script', cursive;color:#fff;}
 
-  img,quote,p {max-width: 100%;height: auto;}
-div.tengah {padding-top:50%;
+img,quote,p {max-width: 100%;height: auto;}
+div.tengah {position:absolute;
+  top:20%; bottom:20%
 }
