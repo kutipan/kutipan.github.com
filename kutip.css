@@ -14,7 +14,8 @@ div { }
 h2,.kutitipkan {font-family: 'Dancing Script', cursive;color:#fff;}
 
 img,quote,p {max-width: 100%;height: auto;}
-div.tengah {line-height: 3em;
+.tengah { padding: 30px;
+text-align: center;
 }
 .parent {
   position: relative;
@@ -25,13 +26,8 @@ div.tengah {line-height: 3em;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.outer-div
-{
-     padding: 30px;
-     text-align: center;
-}
-.inner-div
-{
-     display: inline-block;
+
+.fa-quote-left
+{ display: inline-block;
      padding: 50px;
 }
