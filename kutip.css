@@ -14,7 +14,8 @@ div { }
 h2,.kutitipkan {font-family: 'Dancing Script', cursive;color:#fff;}
 
 img,quote,p {max-width: 100%;height: auto;}
-.tengah { padding-top: 69px;
-text-align: center;
+.tengah { position: relative;
+top: 50%;
+transform: translateY(-50%);
 }
 
