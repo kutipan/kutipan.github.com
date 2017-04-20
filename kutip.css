@@ -14,27 +14,9 @@ div { }
 h2,.kutitipkan {font-family: 'Dancing Script', cursive;color:#fff;}
 
 img,quote,p {max-width: 100%;height: auto;}
-.tengah {   position: relative;
-  transform: translate(0px, -50%);
-  border: 1px solid #AA0000;
-  top: 50%;
+
+.tengah {.center {
+    padding: 70px 0;
+    text-align: center;
 }
 
-.container {
-    height: 100%;
-    position: absolute;
-    overflow: hidden;
-    width: 100%;
-}
-.helper {
-    #position: absolute;
-    #top: 50%;
-    vertical-align: middle;
-}
-.content {
-    #position: relative;
-    #top: -50%;
-    margin: 0 auto;
-    width: auto;
-    
-}
