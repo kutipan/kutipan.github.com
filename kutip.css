@@ -11,9 +11,12 @@ body { background-color: #7a7a7a;
 	75% { color: white; } 
 }
 div { }
-h2,.kutitipkan {font-family: 'Dancing Script', cursive;color:#fff;padding: 10% 0;}
+h2,.kutitipkan {position: relative;font-family: 'Dancing Script', cursive;color:#fff;}
 
   img,quote,p {max-width: 100%;height: auto;}
 div.tengah {
-padding:  5% 0;
+position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -70px 0 0 -170px;
 }
