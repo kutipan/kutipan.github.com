@@ -1,4 +1,4 @@
-body { background-color: #ddd; text-align:center;}
+body { background-color: #7a7a7a; text-align:center;}
 .kaki,.kepala {  text-align:center;-webkit-animation: random 5s infinite;animation: random 5s infinite;}@keyframes  random {15% { color: red; } 30% { color: yellow; } 45% { color: green; } 60% { color: blue; }75% { color: white; }  }
 div { display:inline-block; }
 
