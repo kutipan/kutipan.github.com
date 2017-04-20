@@ -10,7 +10,7 @@ body { background-color: #7a7a7a;
 	60% { color: blue; }
 	75% { color: white; } 
 }
-div { display:inline-block; }
+div { }
 h2,.kutitipkan {font-family: 'Dancing Script', cursive;color:#fff}}
 hr.kutip { 
   height: 30px; 
