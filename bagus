@@ -4,7 +4,7 @@
 @ Auth : bagus - http://bagus18.github.io / bagus@teknik.io
 @ Mod : 18 Nop 2011 With Instrumentalia Doa.mp3
 **/
-document.write("<div id='div_kutip' class='fa fa-quote-left'></div> ");	
+document.write("<div id='div_kutip'></div> <sup class='fa fa-quote-left'></sup>");	
 	var kutip = new Array();
 kutip[0] = "Semulia-mulia kekayaan milik pribadi adalah meninggalkan banyak keinginan.  (Ali Bin Abi Thalib)";
 kutip[1] = "Jika engkau ingin mengetahui watak seseorang, maka ajaklah dia bertukar pikiran denganmu. Sebab, dengan bertukar pikiran itu, engkau akan mengetahui kadar keadilan dan ketidakadilannya, kebaikan dan keburukannya. (Ali Bin Abi Thalib)";
