@@ -1,4 +1,4 @@
-/**
+    /**
 @ Scripts : kutipan.js
 @ Descriptions : hanya buat random saja sih ;)
 @ Auth : bagus - http://bagus18.github.io / bagus@teknik.io
@@ -105,7 +105,7 @@ kutip[95] = "Yang paling mampu memaafkan ialah orang yang paling berkuasa untuk 
 kutip[96] = "Ya Allah! Seandainya Engkau akan mengadili kelak pada hari kiamat, maka jangan Kau adili saya di dekat. (Ali Bin Abi Thalib)";
 kutip[97] = "Ulurkan cintamu sebab Tuhanmu dan tariklah cintamu sebab Tuhanmu. Pasti kamu tidak akan kecewa. (Ali Bin Abi Thalib)";
 kutip[98] = "Janganlah engkau mencela seorang pun, dan janganlah pula engkau menolak seorang pun yang meminta. Sebab, ada kalanya dia orang dermawan, maka engkau memenuhi kebutuhannya; atau seorang kikir, maka engkau membeli kehormatan darinya  (Ali Bin Abi Thalib)";
-kutip[99] = "Cinta itu api, apapun yang dilewatinya akan terbakar,<br /> Cinta itu cahaya, apapun yang dikenainya akan bersinar,<br /> Cinta itu langit, apapun yang di bawahnya akan ditutupinya,<br /> Cinta itu angin, apapun yang ditiupnya akan digerakkannya,<br /> Cinta itu seperti air, dengannya hidup segalanya,<br /> Seperti bumi, Cinta bisa menumbuhkan semuanya.;
+kutip[99] = "Cinta itu api, apapun yang dilewatinya akan terbakar,<br /> Cinta itu cahaya, apapun yang dikenainya akan bersinar,<br /> Cinta itu langit, apapun yang di bawahnya akan ditutupinya,<br /> Cinta itu angin, apapun yang ditiupnya akan digerakkannya,<br /> Cinta itu seperti air, dengannya hidup segalanya,<br /> Seperti bumi, Cinta bisa menumbuhkan semuanya. (Ali Bin Abi Thalib)";
 kutip[100] = "Janganlah engkau mengucapkan sesuatu yang engkau sendiri tidak suka jika orang lain mengucapkannya kepadamu. (Ali Bin Abi Thalib)";
 kutip[101]= "Kurang ajar adalah penyebab segala keburukan. (Ali Bin Abi Thalib)";
 kutip[102] = "Nilai seorang lelaki sesuai dengan keberaniannya; kejujurannya sesuai dengan keseimbangan perangainya; keperkasaannya sesuai dengan respek dirinya; dan kesuciannya sesuai dengan rasa malunya (Ali Bin Abi Thalib)";
@@ -125,7 +125,7 @@ kutip[115] = "Diantara taufik adalah berhenti ketika ragu. (Ali Bin Abi Thalib)"
 kutip[116] = "Diantara amal kebajikan yang paling utama adalah; berderma di saat susah, bertindak benar ketika sedang marah, dan memberi maaf ketika mampu untuk menghukum. (Ali Bin Abi Thalib)";
 kutip[117] = "Kebajikan adalah apa yang dirimu merasa tenang padanya dan hatimu merasa tentram karenanya. Sedangkan dosa adalah yang jiwamu merasa resah karenanya dan hatimu menjadi bimbang. (Ali Bin Abi Thalib)";
 kutip[118] = "Jika perkataan keluar dari hati, maka ia akan berpengaruh terhadap hati, dan jika ia keluar dari lidah, maka ia tidak akan mencapai telinga. (Ali Bin Abi Thalib)";
-kutip[119] = "Janganlah engkau merendahkan seseorang karena kejelekan rupanya dan pakaiannya yang usang, karena sesungguhnya Allah ta’ala hanya memandang apa yang ada dalam hati dan membalas segala perbuatan. (Ali Bin Abi Thalib)";
+kutip[119] = "Janganlah engkau merendahkan seseorang karena kejelekan rupanya dan pakaiannya yang usang, karena sesungguhnya Allah ta\'ala hanya memandang apa yang ada dalam hati dan membalas segala perbuatan. (Ali Bin Abi Thalib)";
 kutip[120] = "Janganlah engkau teregsa-gesa mencela seseorang karena dosanya. Sebab barangkali dosanya telah diampuni. Dan janganlah engkau merasa aman akan dirimu karena suatu dosa kecil. Sebab, barangkali engkau akan diazab karena dosa kecilmu itu. (Ali Bin Abi Thalib)";
 kutip[121] = "Jauhilah olehmu posisi mengemukakan alasan. Sebab, ada kalanya alasan justru menetapkan kesalahan terhadap orang yang berdalih itu, meskipun dia bersih dari dosa itu. (Ali Bin Abi Thalib)";
 kutip[122] = "Barangsiapa yang telah kehilangan keutamaan kejujuran dalam pembicaraannya, maka dia telah kehilangan akhlaknya yang termulia. (Ali Bin Abi Thalib)";
@@ -138,8 +138,8 @@ kutip[128] = "Siapa yang memandang dirinya buruk maka dia adalah orang yang baik
 kutip[129] = "Orang yang tertinggal karena kurangnya amal tidak akan dapat menyusul dengan kemuliaan nasabnya. (Ali Bin Abi Thalib)";
 kutip[130] = "Semulia-mulia kekayaan milik pribadi adalah meninggalkan banyak keinginan.. (Ali Bin Abi Thalib)";
 kutip[131] = "Keresahan/sikap mengeluh adalah setengah dari ketuaan.. (Ali Bin Abi Thalib)";
-kutip[132] = "Semakin banyak kau mempunyai kelebihan maka semakin berat beban yang harus kau pikul (Ali Bin Abi Thalib)";
-kutip[133] = "Luangkan sejenak untuk berfikir kau hidup ini sebenarnya ingin mencari apa.. (Ali Bin Abi Thalib)";
+//kutip[132] = "Semakin banyak kau mempunyai kelebihan maka semakin berat beban yang harus kau pikul (Ali Bin Abi Thalib)";
+//kutip[133] = "Luangkan sejenak untuk berfikir kau hidup ini sebenarnya ingin mencari apa.. (Ali Bin Abi Thalib)";
 //kutip[134] = "Pandanglah untuk urusan duniamu kebawah agar kau bersykur, dan pandanglah untuk akhiratmu ke atas, agar kau menjadi Hamba yang baik..";
 //kutip[135] = "Menceritakan kegelisahanmu kepada Tuhan aku rasa akan mengurangi bebanmu..";
 //kutip[136] = "Melangkahlah walaupun itu kecil akan menjadi batu untuk landasanmu..";
