@@ -20,11 +20,11 @@
 <meta name=twitter:card content="summary"/>
 <meta name=twitter:title content="“Kutipan”"/>
 <meta name=twitter:image content="//avatars0.githubusercontent.com/u/27793104?"/>
-<link rel=stylesheet href=//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css>
+<link rel=stylesheet href=kutip.css>
 <link href="//fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet"> 
-<style>body,html {background: #6a6a6a;}
+<style>
 textarea,input {
-  background: #6a6a6a;
+  background: none;
   width:100%;
   outline: none;
   resize: none;
@@ -34,15 +34,18 @@ textarea,input {
 	border: none;
 	color: transparent;
 	text-shadow: 0 0 0 #fff;
+	margin-top:150px;
 }
+textarea:before {
+  content: "\e900";}
 &:focus {
     outline: none;
 }
 </style>
 </head>
 <body>
-<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<textarea type="text" name="kutip" placeholder="Just tap your keyboard to start write :)" cols="30" rows="10">❝❞</textarea>
+<textarea type="text" name="kutip" placeholder="Just tap your keyboard to start write :)" cols="30" rows="10"></textarea>
 </p>
+<script type=text/javascript src=test.js></script>
 </body>
 </html>

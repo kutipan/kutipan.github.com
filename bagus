@@ -4,7 +4,7 @@
 @ Auth : bagus - http://bagus18.github.io / bagus@teknik.io
 @ Mod : 18 Nop 2011 With Instrumentalia Doa.mp3
 **/
-document.write("<div class='kutitipkan' id='kutitipkan'><sup class='fa fa-quote-left'></sup> ");	
+document.write("<div class='kutitipkan' id='kutitipkan'><sup class='icon-quote-left'></sup> ");	
 	var kutip = new Array();
 kutip[0] = "Semulia-mulia kekayaan milik pribadi adalah meninggalkan banyak keinginan.  (Ali Bin Abi Thalib)";
 kutip[1] = "Jika engkau ingin mengetahui watak seseorang, maka ajaklah dia bertukar pikiran denganmu. Sebab, dengan bertukar pikiran itu, engkau akan mengetahui kadar keadilan dan ketidakadilannya, kebaikan dan keburukannya. (Ali Bin Abi Thalib)";
@@ -158,5 +158,5 @@ kutip[140] = "Jangan jadikan keyakinanmu menjadi keraguan, ilmu~mu menjadi kebod
 var bagus = kutip.length;
     var whichkutip=Math.round(Math.random()*(bagus-1));
 function showkutip(){document.write(kutip[whichkutip]);}
-showkutip();document.write(" <sub><i class='fa fa-quote-right' aria-hidden=true></i></sub></div>");	
+showkutip();document.write(" <sub><i class='icon-quote-right'></i></sub></div>");	
 	
